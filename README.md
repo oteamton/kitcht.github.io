@@ -1,4 +1,5 @@
-# COMPUTER ENGINEERING
+#### Personal Information
+- I really enjoy coding and tackling new challenges. I love solving problems. I know my algorithm skills aren't perfect, but I'm always working to get better. I think communication is super important, though I sometimes struggle to explain complex algorithms clearly. Also, I do happy when try out new language and framework.
 
 #### English score
 - SWU-SET Score: 74/100
