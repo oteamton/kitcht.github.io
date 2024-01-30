@@ -46,10 +46,10 @@
 - Write SQL query and create store procedure
 
 ### Education
-Srinakharinwirot University
-Faculty of Engineering, Computer Engineering Department
-GPA 3.24
+- Srinakharinwirot University
+- Faculty of Engineering, Computer Engineering Department
+- GPA 3.24
 
 ### Contact
-Mobile: 096-4082715
-E-mail: oteamton@gmail.com
+- Mobile: 096-4082715
+- E-mail: oteamton@gmail.com
