@@ -4,6 +4,8 @@
 #### English score
 - SWU-SET Score: 74/100
 
+---
+
 ### Skills and Knowledges
 #### Main Skills:
 - **Programming Languages**: JavaScript (JS), Typescript, HTML, CSS, Java, PHP
@@ -34,11 +36,13 @@
 - Demo Decentralized application with Ethereum and MetaMask for learning blockchain.
 - IoT Applications with sensors, Raspberry Pi and some cloud platforms to control the IoT devices via mobile.
 
+---
+
 ### Experience
-- Internship at Market Bear for 2 months (July 21 - September 30, 2022).
-    - WordPress developer using Elementor, including front-end development with HTML, CSS, and JavaScript.
-    - Designed prototypes in Figma.
-    - Participated in client meetings, effectively communicating in English.
+#### Internship at Market Bear for 2 months (July 21 - September 30, 2022)
+- WordPress developer using Elementor, including front-end development with HTML, CSS, and JavaScript.
+- Designed prototypes in Figma.
+- Participated in client meetings, effectively communicating in English.
 
 #### Full-stack Web Develop at SWU (15 August 2023 - 1 February 2024)
 - Develop, Test, Deploy web app on Vercel with Nuxt.js.
@@ -46,10 +50,14 @@
 - Supporting Sap Logon users
 - Write SQL query and create store procedure
 
+---
+
 ### Education
 - Srinakharinwirot University
 - Faculty of Engineering, Computer Engineering Department
 - GPA 3.24
+
+---
 
 ### Contact
 - Mobile: 096-4082715
