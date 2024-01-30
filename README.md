@@ -25,6 +25,8 @@
 - **CI/CD**: Github Actions
 - **Technical Expertise**: WSL, IIS, Linux
 
+---
+
 ### Project and Learning during Colleges
 - Static Website about music genre with HTML, CSS, and JavaScript.
 - Local Web Application Shop with admin panel PHP HTML CSS JS and MySQL.
