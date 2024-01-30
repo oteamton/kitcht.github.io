@@ -39,7 +39,7 @@
     - Designed prototypes in Figma.
     - Participated in client meetings, effectively communicating in English.
 
-#### Full-stack Web Develop at SWU (15 August 2023 - Now)
+#### Full-stack Web Develop at SWU (15 August 2023 - 1 February 2024)
 - Develop, Test, Deploy web app on Vercel with Nuxt.js.
 - In Develop: Next14 Web App with serverless, APIs gateway, Integration Line OA with Node.js to create CRUD.
 - Supporting Sap Logon users
