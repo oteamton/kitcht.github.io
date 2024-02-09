@@ -8,7 +8,7 @@
 
 ### Skills and Knowledges
 #### Skills:
-- **Main Programming Languages**: Java,C#.NET, JavaScript, HTML, CSS, PHP
+- **Main Programming Languages**: Java, C#.NET, JavaScript, HTML, CSS, PHP
 - **Database**: MySQL, MSSQL, MongoDB Atlas
 - **Frameworks**: Node.js, React.js, Express.js, Vue.js (Nuxt.js), Next.js, Spring Boot
 - **Styling**: Sass, Less, Tailwind CSS
