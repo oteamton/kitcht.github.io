@@ -7,22 +7,20 @@
 ---
 
 ### Skills and Knowledges
-#### Main Skills:
-- **Programming Languages**: JavaScript, Typescript, HTML, CSS, Java, PHP
+#### Skills:
+- **Main Programming Languages**: Java,C#.NET, JavaScript, HTML, CSS, PHP
 - **Database**: MySQL, MSSQL, MongoDB Atlas
 - **Frameworks**: Node.js, React.js, Express.js, Vue.js (Nuxt.js), Next.js, Spring Boot
 - **Styling**: Sass, Less, Tailwind CSS
 - **API Testing**: Postman
 - **Database Tools**: SQL Server Management Studio (SSMS)
 - **Development Tools**: Visual Studio 2022, VS Code, JetBrains, GitHub, Android Studio, NeoVim
-
-#### Additional interested in:
-- **Programming Languages**: C++, C#, .NET, Python
+- **Secondary Programming Languages**: C++, Python
 - **Web Development Frameworks**: FLASK, Django
 - **Service hosting**: Amazon S3, Vercel
 - **DevOps Tools**: Kubernetes, Docker
 - **CI/CD**: GitHub Actions
-- **Technical Expertise**: WSL, IIS, Linux
+- **Technical Skills**: WSL, IIS, Linux
 
 ---
 
