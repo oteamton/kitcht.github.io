@@ -8,9 +8,9 @@
 
 ### Skills and Knowledges
 #### Skills:
-- **Main Programming Languages**: Java, C#.NET, JavaScript, HTML, CSS, PHP
+- **Main Programming Languages**: Java, C#, JavaScript, HTML, CSS, PHP
 - **Database**: MySQL, MSSQL, MongoDB Atlas
-- **Frameworks**: Node.js, React.js, Express.js, Vue.js (Nuxt.js), Next.js, Spring Boot
+- **Frameworks**: Node.js, React.js, Express.js, Vue.js (Nuxt.js), Next.js, Spring Boot, .NET
 - **Styling**: Sass, Less, Tailwind CSS
 - **API Testing**: Postman
 - **Database Tools**: SQL Server Management Studio (SSMS)
@@ -30,24 +30,25 @@
 - Android Application for exercise selection with Android Studio and Java.
 - Create a Rock Scissor Paper game with card-based random with Unity and C#.
 - Create APIs with Node.js, Java Spring Boot, and use Postman to test APIs.
-- Windows App for user data collection and MSSQL using C#.NET.
-- Smart Traffic project with Python, OpenCV, and YOLOv4 for object detection and calculate the speed of the object.
+- Windows App for user data collection and MSSQL using C# and .NET.
 - Demo Decentralized application with Ethereum and MetaMask for learning blockchain.
 - IoT Applications with sensors, Raspberry Pi and some cloud platforms to control the IoT devices via mobile.
+- Smart Traffic project with Python, OpenCV, and YOLOv4 for object detection and calculate the speed of the object.
 
 ---
 
 ### Experience
-#### Internship at Market Bear (July 21 - September 30, 2022)
+#### Internship at Market Bear (21 July 2022 - 30 September 2022)
 - WordPress developer using Elementor, including front-end development with HTML, CSS, and JavaScript.
 - Designed prototypes in Figma.
 - Participated in client meetings, effectively communicating in English.
 
 #### Full-stack Web Developer at SWU (15 August 2023 - 1 February 2024)
-- Developed, tested, and deployed a web app on Vercel with Nuxt.js.
-- In development Next14 Web App with serverless, API gateway, Integration Line OA with Node.js to create CRUD.
-- Supported Sap Logon users.
-- Wrote SQL queries and created stored procedures.
+- Developed CRUD Web App using Next14.
+- Developed Nuxt3.js Appointment Web App with serverless, Integration Line OA and test deploy on vercel.
+- Assisted senior developers in migrating hard-coded paths to dynamic paths in C#.
+- Supported Sap Logon/IT users.
+- Write SQL queries and created stored procedures.
 
 ---
 
