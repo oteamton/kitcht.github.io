@@ -1,5 +1,5 @@
 ### Personal Information
-- I really enjoy coding and tackling new challenges. I love solving problems. I know my algorithm skills aren't perfect, but I'm always working to get better. I think communication is super important, though I sometimes struggle to explain complex algorithms clearly. Also, I am happy when trying out new languages and frameworks.
+- I really enjoy coding and tackling new challenges. I love solving problems. I know my algorithm skills aren't perfect, but I'm always working to get better. Also, I am happy when trying out new thinks and share knowledge.
 
 #### English score
 - SWU-SET Score: 74/100
@@ -8,19 +8,16 @@
 
 ### Skills and Knowledges
 #### Skills:
-- **Main Programming Languages**: Java, C#, JavaScript, HTML, CSS, PHP
-- **Database**: MySQL, MSSQL, MongoDB Atlas
-- **Frameworks**: Node.js, React.js, Express.js, Vue.js, Next.js, Spring Boot, .NET
-- **Styling**: Sass, Less, Tailwind CSS
-- **API Testing**: Postman
-- **Database Tools**: SQL Server Management Studio (SSMS)
-- **Development Tools**: Visual Studio 2022, VS Code, JetBrains, GitHub, Android Studio, NeoVim
+- **Main Programming Languages**: Java, JavaScript, HTML, CSS, PHP, C#
 - **Secondary Programming Languages**: C++, Python
-- **Web Development Frameworks**: FLASK, Django
-- **Service hosting**: Amazon S3, Vercel
-- **DevOps Tools**: Kubernetes, Docker
+- **Database**: MySQL, MSSQL, OracleSQL, MongoDB Atlas
+- **Frameworks**: Node.js, React.js, Express.js, Vue.js, Next.js, Spring Boot, .NET
 - **CI/CD**: GitHub Actions
-- **Technical Skills**: WSL, IIS, Linux
+- **DevOps Tools**: Kubernetes, Docker
+- **Styling**: Tailwind, Sass
+- **Service hosting**: Amazon S3/EC2, Vercel
+- **Technical Skills**: Windows Server, Linux
+- **Other tools**: Postman, JIRA
 
 ---
 
@@ -49,6 +46,10 @@
 - Assisted senior developers in migrating hard-coded paths to dynamic paths in C#.
 - Supported Sap Logon/IT users.
 - Write SQL queries and created stored procedures.
+
+#### Backend Developer at Bangkok Bank (1 March - 16 July 2024)
+- Developed Cobal, Batch scripts, Shell scripts programs to display and transfer reports via Linux server.
+- Supported UAT testing and Production
 
 ---
 
